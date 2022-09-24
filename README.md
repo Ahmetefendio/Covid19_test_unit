@@ -21,7 +21,7 @@ so long for working.
 ● People will come to the unit in continuous and random periods.  
 ● The hospital has 8 units and also 8 healthcare staff. So, each unit contains one staff.  
 ● The states for each unit:  
-/t ○ Entry free state: Staff will announce to the people his remaining places to get in the
+&emsp;○ Entry free state: Staff will announce to the people his remaining places to get in the
     waiting room, if it has one or more people in the room. For example, each room has 2
     people and waits for one more person and the staff calls “The last people, let's start!
     Please, pay attention to your social distance and hygiene; use a mask.”  
